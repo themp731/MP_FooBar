@@ -12,8 +12,3 @@ def answer(coins):
 	return(pads)
 answer(24)
 answer(64)
-
-				
-### URLS to check
-# https://github.com/leighlondon/foobar/blob/master/square_supplies/solution.py
-# https://numericalsecurity.wordpress.com/2015/11/13/google-foobar-square-supplies-level-3-write-up/
