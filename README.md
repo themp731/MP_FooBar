@@ -4,8 +4,8 @@ Included in this Repo are the challenges I've gotten and completed so far. If yo
 
 If you've been invited to the foo.bar with Google challenges this might be useful. I've only been doing this python thing part time for a couple months so pardon my poor naming conventions, bad style etc. I tried to comment what I was doing, to give some background, hopefully it's clear enough.
 
+Some of the problems encountered so far in the Foobar (foo bar? foo.bar?) are:
 <ul>
-Some of the problems encountered are:
 <li> Minion Interrogation
 <li> Naming Minions
 <li> Minion Bored Games
